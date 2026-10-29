@@ -1,4 +1,4 @@
-/*TITULO CODIGO PRUEBA*/
+/*INICIO CODIGO PRUEBA*/
 
 .patotitle {
     font-family: "Unica One", sans-serif;
@@ -25,4 +25,10 @@
     z-index: -1;
     text-align: center;
 
+}
+
+/*TITULO PRINCIPAL PRUEBA*/
+.patotitle .principal {
+    position: relative;
+    z-index: 1;
 }
