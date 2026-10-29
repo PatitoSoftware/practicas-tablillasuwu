@@ -15,17 +15,14 @@
 /*SIMBOLO ATRAS DEL TITULO*/
 
 .patotitle .simbolo {
-   position: absolute;
-    left: 50%;
+  position: absolute;
     top: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 100px;
-    color: #a4e0da;
-    opacity: 0.3;
-    z-index: -1;
-    text-align: center
-    width: max-content;
-
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    text-align: center;
+    white-space: nowrap;
+    z-index: 0;
 }
 
 /*TITULO PRINCIPAL PRUEBA*/
