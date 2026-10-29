@@ -53,3 +53,11 @@
     text-align: justify !important;
     overflow-wrap: anywhere;
 }
+
+.separador {
+    width: 60%;
+    height: 0;
+    border-top: 2px solid #a4e0da;
+    box-shadow: 0 0 8px #a4e0da;
+    margin: 10px auto 20px;
+}
