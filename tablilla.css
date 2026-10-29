@@ -1,7 +1,7 @@
 /*TITULO CODIGO PRUEBA*/
 
 .patotitle {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cinzel', serif !important;
   font-size: 60px;
   color: #ff4400;
 }
