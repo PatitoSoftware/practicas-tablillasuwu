@@ -37,7 +37,7 @@
 }
     /* MARQUITO SISI */
 .prueba-marco {
-    width: 100%;
+    width: 70%;
     box-sizing: border-box;
     border: 5px solid #a4e0da;
     padding: 20px;
@@ -48,4 +48,5 @@
 .post-cuerpo {
     width: 100%;
     box-sizing: border-box;
+    text-align: justify;
 }
