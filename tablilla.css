@@ -39,7 +39,7 @@
 .prueba-marco {
     width: 100%;
     box-sizing: border-box;
-    border: 1px solid #a4e0da;
+    border: 5px solid #a4e0da;
     padding: 20px;
     box-shadow: 0px 0px 8px #a4e0da;
     background-color: red !important;
