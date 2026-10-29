@@ -15,8 +15,9 @@
 /*SIMBOLO ATRAS DEL TITULO*/
 
 .patotitle .simbolo {
-    top: 50%;
+   position: absolute;
     left: 50%;
+    top: 50%;
     transform: translate(-50%, -50%);
     font-size: 100px;
     color: #a4e0da;
