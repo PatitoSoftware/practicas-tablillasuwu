@@ -46,6 +46,15 @@
     overflow-wrap: anywhere;
 }
 
+/*Y OTRO MARQUITO MASSSS*/
+.marco-interior {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #a4e0da;
+    padding: 15px;
+    box-shadow: 0 0 4px #a4e0da;
+}
+
 /* TEXTO DEL POST EAAA */
 .post-cuerpo {
     width: 100%;
@@ -77,3 +86,4 @@
     isolation: isolate;
 
 }
+
