@@ -1,9 +1,13 @@
 /*TITULO CODIGO PRUEBA*/
 
 .patotitle {
-    font-family: 'Cinzel', serif !important;
-  font-size: 35px;
-  color: #ff4400;
+    font-family: "Oranienbaum", serif;
+    font-size: 35px;
+  font-weight: 400;
+  font-style: normal;
+    text-shadow: 0px 0px 10px #c7fffd;
+     text-align: center;
+    
 }
 
 /*SUBTÍTULO PRUEBA*/
