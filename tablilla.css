@@ -23,7 +23,8 @@
     color: #a4e0da;
     opacity: 0.3;
     z-index: -1;
-    text-align: center;
+    text-align: center
+    width: max-content;
 
 }
 
