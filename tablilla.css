@@ -2,6 +2,14 @@
 
 .patotitle {
     font-family: 'Cinzel', serif !important;
-  font-size: 20px;
+  font-size: 35px;
+  color: #ff4400;
+}
+
+/*SUBTÍTULO PRUEBA*/
+
+.patosubt {
+    font-family: 'Cinzel', serif !important;
+  font-size: 35px;
   color: #ff4400;
 }
