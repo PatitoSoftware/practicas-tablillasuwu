@@ -54,10 +54,26 @@
     overflow-wrap: anywhere;
 }
 
+/* BARRITA SEPARADORA ¿?¿?¿*/
 .separador {
     width: 60%;
     height: 0;
     border-top: 2px solid #a4e0da;
     box-shadow: 0 0 8px #a4e0da;
     margin: 10px auto 20px;
+}
+
+/*TEXTO ABAJO DEL TITULO LALALA*/
+.subtitulo {
+    position: relative;
+    width: 100%;
+    font-family: "Aboreto", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 30px;
+    text-shadow: 0px 0px 8px #a4e0da;
+    text-align: center;
+    line-height: 1.8;
+    isolation: isolate;
+
 }
