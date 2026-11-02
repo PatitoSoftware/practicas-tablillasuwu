@@ -6,7 +6,7 @@
   font-weight: 400;
   font-style: normal;
     font-size: 50px;
-    text-shadow: 0px 0px 8px #a4e0da;
+    text-shadow: 0px 0px 8px #8dd9bd;
     text-align: center;
     line-height: 1.8;
     isolation: isolate;
@@ -20,12 +20,12 @@
     align-items: center;
     justify-content: center;
     font-size: 100px;
-    color: #a4e0da;
+    color: #8dd9bd;
     opacity: 0.3;
     white-space: nowrap;
     z-index: -1;
     pointer-events: none;
-    text-shadow: 0px 0px 8px #a4e0da;
+    text-shadow: 0px 0px 8px #8dd9bd;
     line-height: 2.0;
     padding-bottom: 0.2em;
 }
@@ -39,10 +39,10 @@
 .prueba-marco {
     width: 70%;
     box-sizing: border-box;
-    border: 5px solid #a4e0da;
+    border: 5px solid #8dd9bd;
     padding: 20px;
     margin: 0 auto;
-    box-shadow: 0 0 8px #a4e0da;
+    box-shadow: 0 0 8px #8dd9bd;
     overflow-wrap: anywhere;
 }
 
@@ -50,9 +50,9 @@
 .marco-interior {
     width: 100%;
     box-sizing: border-box;
-    border: 1px solid #a4e0da;
+    border: 1px solid #8dd9bd;
     padding: 15px;
-    box-shadow: 0 0 4px #a4e0da;
+    box-shadow: 0 0 4px #8dd9bd;
 }
 
 /* TEXTO DEL POST EAAA */
@@ -67,8 +67,8 @@
 .separador {
     width: 60%;
     height: 0;
-    border-top: 2px solid #a4e0da;
-    box-shadow: 0 0 8px #a4e0da;
+    border-top: 2px solid #8dd9bd;
+    box-shadow: 0 0 8px #8dd9bd;
     margin: 10px auto 20px;
 }
 
@@ -80,7 +80,7 @@
   font-weight: 400;
   font-style: normal;
     font-size: 15px;
-    text-shadow: 0px 0px 8px #a4e0da;
+    text-shadow: 0px 0px 8px #8dd9bd;
     text-align: center;
     line-height: 1.8;
     isolation: isolate;
